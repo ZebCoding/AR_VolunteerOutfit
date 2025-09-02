@@ -13,6 +13,6 @@ How It Works:
 - Draws a volunteer hat and shirt overlay based on the body's position
 
 How to Use:
-1. Open the website using https://usaceswosu.github.io/AR_VolunteerOutfit/
-2. Allow camera permissions
-3. Step into view
+1. Open the website using https://ZebCoding.github.io/AR_VolunteerOutfit/
+3. Allow camera permissions
+4. Step into view
